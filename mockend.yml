@@ -1,3 +1,4 @@
+key: Bakemono
 models:
   Post:
     hasMany: [Comment]
