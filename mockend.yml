@@ -31,4 +31,4 @@ models:
     fake:
       _count: 5
       username: email
-      password: loremWords: [5, 20]
+      password: {loremWords: [5, 20]}
